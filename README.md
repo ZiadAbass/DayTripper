@@ -14,7 +14,7 @@ journey take no longer than what you initially specify.
 
 Here is a screenshot of the routes page:
 
-<img src="Images/sc.jpg" alt="screenshot" width="190"/>
+<img src="Images/sc.jpg" alt="screenshot" width="230"/>
 
 As you can see, the user can input a start and end location, as well as the extra time they are open to spend on their
 journey and the number of stops they would like to make (4 in this example). As the app currently only looks for pubs (a variety of destination types will be added in future iterations of the app), the backend searches for POI's of the given type and performs route-
